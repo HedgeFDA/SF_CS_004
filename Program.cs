@@ -75,9 +75,7 @@ namespace SF_CS_004
             {
                 Console.Write((i > 0 ? ", " : "") + Array[i]);
             }
-            Console.Write("\nДля завершения нажмите любую клавишу...");
-
-            Console.ReadKey();
+            Console.Write("\n");
         }
     }
 }
